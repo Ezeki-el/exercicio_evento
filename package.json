@@ -1,0 +1,16 @@
+{
+  "name": "exercicio-evento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countdown.js",
+  "scripts": {
+    "sass": "sass styles.scss styles.css",
+    "watch-sass": "sass --watch styles.scss:styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
